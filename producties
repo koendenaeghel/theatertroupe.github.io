@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Theater Troupe</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta name="keywords" content="Theater Troupe">
+	<meta name="description" content="website van Theater Troupe">
+	<!-- master fluid box -->
+	<link rel="canonical" href="https://www.theatertroupe.be/"/>
+
+	<meta property="og:site_name" content="Theater Troupe" />
+	<meta property="og:title" content="Theater Troupe" />
+	<style>
+		#fw-mainColumn .fw-paragraph {background: Gainsboro  !important; color: black !important; border: 1px dotted black !important;}
+	</style>
+	<style>
+		#ABC {
+		  	background-color: black;
+			padding: 1em;
+			border-radius: 3px;
+			margin: 1em 0;
+			color: white;
+		}
+	</style>
+	<style>
+		#DEF {
+		  	background-color: rgb(52, 139, 161);
+			padding: 0em;
+			border-radius: 2px;
+			margin: 0em 0;
+			color: white;
+		}
+	</style>
+	<style>
+		h1.uppercase {
+			text-transform: uppercase;
+		}
+		h1.lighter {
+		  font-weight: lighter;
+		}
+		h1.normal {
+		  font-weight: normal;
+		}
+		h1.bold {
+		  font-weight: bold;
+		}
+		h1.bolder {
+		  font-weight: bolder;
+		}
+		.boxhead a {
+    	text-decoration: none;
+		color: unset;
+		font-weight: lighter;
+		}	
+	</style>
+</head>
+<body>
+	<section id="ABC">
+		<center>
+			<font size="+2"><h1 class="uppercase" style="font-weight: lighter">Theater Troupe</h1></font>
+		</center>
+		<center>
+			<h2 style="font-weight: lighter">Est. 2025</h2>
+		</center>
+	</section>
+
+    <div id="fw-blockContainer">
+
+		<div id="fw-bigcontain">
+
+
+
+			<div id="fw-mainColumn">
+				<!-- ParagraphStart 819952371 -->
+			<div class="fw-paragraph">
+				<div class="fw-paragraphtop"></div>
+				<h4 class="fw-title"><a name="819952371"></a><!-- ParagraphTitleStart --><font size="+2">Mei 2025 - Merde!</font> <!-- ParagraphTitleEnd --></h4>
+				<div class="fw-text" style="margin:20px"><!-- ParagraphBodyStart -->
+
+					<font size="+1">
+
+<p></p>
+<center>
+<b><em><a title="om nadien de full screen te verlaten druk je nogmaals op F11" href="https://fliphtml5.com/sanky/laea/" target="_blank" name="">KLIK HIER VOOR FULL SCREEN</a></em></b>
+</center>
+<p></p>
+
+<div style="position:relative;padding-top:max(60%,324px);width:100%;height:0;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/sanky/clqm/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
+<p>
+</p>	
+						
+<hr>
+
+<p>
+</p>	
